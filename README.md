@@ -5,10 +5,10 @@
 這是一個透過ChatGPT服務讓你方便追蹤投顧分析師天天的節目，並將他們整理成簡短的文字敘述，後續想改成排程執行也相當方便。
 使用到的工具如下：
 
-●  Youtube Data API 用來擷取投顧分析師每日最新的影片
-●  pytube套件 用來將擷取的URL下載到本地端
-●  ffmpeg套件 用來分割音訊，因為Whisper API 一次能產生的文字量有限，所以需要分批處理，現在專案用10分鐘為計算標準。
-●  Openai套件 當中包含ChatGPT以及Whisper，Whisper用來將音訊檔轉換成文字稿，ChatGPT用來將大量文字統整輸出。
+●  Youtube Data API 用來擷取投顧分析師每日最新的影片 
+●  pytube套件 用來將擷取的URL下載到本地端 
+●  ffmpeg套件 用來分割音訊，因為Whisper API 一次能產生的文字量有限，所以需要分批處理，現在專案用10分鐘為計算標準 
+●  Openai套件 當中包含ChatGPT以及Whisper，Whisper用來將音訊檔轉換成文字稿，ChatGPT用來將大量文字統整輸出 
 
 
 
