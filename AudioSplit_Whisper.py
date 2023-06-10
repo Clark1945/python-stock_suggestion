@@ -13,27 +13,26 @@ def transcribeAudio(audio,apiKey):
 
 def spiltAudio(audioFile,today_video_index):
     AudioSegment.ffmpeg = r"D:\\MyFold\\Tools\\ffmpeg-master-latest-win64-gpl\\bin\\ffmpeg.exe"
-    # audioFile = r".\\排程\\download\\【台股報報爆】我如何從股市中賺到1151萬？唯一事前預告0050進出點位 0050必勝心法.mp3"
     sound = AudioSegment.from_file(audioFile)
-
-    dest = r".\\排程\\download\\output\\"
+    
+    dest = r".\\download\\"+str(datetime.datetime.now().strftime("%Y%m%d"))+"\\"
     if not os.path.exists(dest):
         os.mkdir(dest)
 
     #print(sound.duration_seconds) # 影片長度
     today = datetime.datetime.now().strftime("%Y%m%d")
-    spiltAmt= int(sound.duration_seconds // 300) +1
+    spiltAmt= int(sound.duration_seconds // 120) +1
     allSplitAudio = []
     for partIndex in range(spiltAmt):
-        ten_minute = 300 * 1000 # 以10分鐘分割 pydub does things in milliseconds
+        three_minute = 120 * 1000 # 以10分鐘分割 pydub does things in milliseconds
         # song clip of 10 seconds from starting
-        eachPartAudio = sound[partIndex*ten_minute:ten_minute*(partIndex+1)] # 分割
+        eachPartAudio = sound[partIndex*three_minute:three_minute*(partIndex+1)] # 分割
 
         # save file
         eachPartAudio.export(dest+today+"index="+str(today_video_index)+"part="+str(partIndex)+".mp3",format="mp3") # 輸出片段
         allSplitAudio.append(dest+today+"index="+str(today_video_index)+"part="+str(partIndex)+".mp3")
 
-    print("New Audio file is created and saved")
+    print("音訊分割完成！")
     return allSplitAudio
 
 
@@ -43,7 +42,7 @@ def analysisText(text,apiKey):
         model="text-davinci-003",
         prompt="幫我整理統計以下文章中出現了哪些股票:\n"+text,
         temperature=0.3,
-        max_tokens=4000,
+        max_tokens=2500,
         top_p=1.0,
         frequency_penalty=0.0,
         presence_penalty=0.0

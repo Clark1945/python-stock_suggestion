@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-class getYTLink:
+class YoutubeObject:
     # 建構式
     def __init__(self, api_key):
         self.base_url = "https://youtube.googleapis.com/youtube/v3/"
@@ -28,17 +28,17 @@ class getYTLink:
             uploads_id = None
         return uploads_id
 
-    def get_playlist(self, playlist_id, part='contentDetails', max_results=3):
+    def get_playlist(self, playlist_id, part='contentDetails', max_results=5):
         """取得影片清單ID中的影片"""
         path = f'playlistItems?part={part}&playlistId={playlist_id}&maxResults={max_results}'
-        data = self.get_html_to_json(path)
-        if not data:
+        video_source = self.get_html_to_json(path)
+        if not video_source:
             return []
         video_ids = []
         dt = datetime.now().strftime("%Y%m%d")
-        for data_item in data['items']:
-            publishDate = str(data_item['contentDetails']['videoPublishedAt'])[:10].replace("-", "")
-            if  publishDate[:4] == dt[:4] and publishDate[4:6] == dt[4:6] and int(publishDate[6:]) <= int(dt[6:]) and int(publishDate[6:]) > int(dt[6:])-2:
+        for data_item in video_source['items']:
+            publishDate = str(data_item["contentDetails"]['videoPublishedAt'])[:10].replace("-", "")
+            if  publishDate[:6] == publishDate or int(publishDate[6:])+1 == int(dt[6:]):
                 video_ids.append("https://www.youtube.com/watch?v="+data_item['contentDetails']['videoId'])
         return video_ids
 
