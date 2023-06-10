@@ -1,7 +1,7 @@
 import YoutubeDataAPI
 import YoutubeAudioDownload
 import AudioSplit_Whisper
-import time,logging
+import time,logging,datetime
 
 youtube_api_key = "" #請輸入 自己的API Key
 GPT_API_KEY = ""
@@ -13,7 +13,7 @@ channel_list.append("UC9Pd7LN9potuHVafJCLX7Pw") #{林鈺凱}
 
 ref_name = {0:"郭哲榮",1:"林鈺凱"}
 
-logging.basicConfig(filename="stockSuggestion.log",encoding="utf-8",level=logging.INFO)
+logging.basicConfig(filename="stockSuggestion.log",format='%(asctime)s %(message)s',encoding="utf-8",level=logging.INFO)
 # 取得Youtube物件後，利用頻道ID取得頻道上傳ID，再根據時間取得今日影片
 YT_Object = YoutubeDataAPI.YoutubeObject(youtube_api_key)
 for channel_id in range(len(channel_list)):
@@ -43,13 +43,13 @@ for channel_id in range(len(channel_list)):
             except:
                 logging.error("第"+str(partAudio)+"部份發生錯誤")
                 continue
-            with open(f'.\download\Result-{ref_name[channel_id]}.txt',"a+",encoding="utf-8") as file:
+            with open(f'.\download\Result-{ref_name[channel_id]+" in "+ str(datetime.datetime.now().strftime("%Y%m%d"))}.txt',"a+",encoding="utf-8") as file:
                 file.write(KeyMessageList)
             logging.info("擷取完成～ＣＤ中")
             time.sleep(25)
         idx+=1
 
-print("完成啦")
+print("完成啦，準備寄送郵件...")
     
     
 
