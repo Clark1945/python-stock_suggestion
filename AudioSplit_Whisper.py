@@ -24,9 +24,9 @@ def spiltAudio(audioFile,today_video_index):
     spiltAmt= int(sound.duration_seconds // 120) +1
     allSplitAudio = []
     for partIndex in range(spiltAmt):
-        three_minute = 120 * 1000 # 以10分鐘分割 pydub does things in milliseconds
+        two_minute = 120 * 1000 # 以10分鐘分割 pydub does things in milliseconds
         # song clip of 10 seconds from starting
-        eachPartAudio = sound[partIndex*three_minute:three_minute*(partIndex+1)] # 分割
+        eachPartAudio = sound[partIndex*two_minute:two_minute*(partIndex+1)] # 分割
 
         # save file
         eachPartAudio.export(dest+today+"index="+str(today_video_index)+"part="+str(partIndex)+".mp3",format="mp3") # 輸出片段
@@ -40,7 +40,7 @@ def analysisText(text,apiKey):
     openai.api_key = apiKey
     completion = openai.Completion.create(
         model="text-davinci-003",
-        prompt="幫我整理統計以下文章中出現了哪些股票:\n"+text,
+        prompt="幫我整理統計以下文章中出現了哪些股票，並以逗號分隔:\n"+text,
         temperature=0.3,
         max_tokens=2500,
         top_p=1.0,

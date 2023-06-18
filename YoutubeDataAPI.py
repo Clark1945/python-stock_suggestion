@@ -38,7 +38,7 @@ class YoutubeObject:
         dt = datetime.now().strftime("%Y%m%d")
         for data_item in video_source['items']:
             publishDate = str(data_item["contentDetails"]['videoPublishedAt'])[:10].replace("-", "")
-            if  publishDate[:6] == publishDate or int(publishDate[6:])+1 == int(dt[6:]):
+            if  publishDate == dt:
                 video_ids.append("https://www.youtube.com/watch?v="+data_item['contentDetails']['videoId'])
         return video_ids
 
