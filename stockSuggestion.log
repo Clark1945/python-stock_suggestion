@@ -791,3 +791,939 @@
 2023-06-18 21:28:24,883 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4474 tokens (1974 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
 2023-06-18 21:28:24,883 第6部份發生錯誤
 2023-06-18 21:28:24,883 開始擷取
+2023-06-19 20:11:40,558 第1位分析師的影片共有3部
+2023-06-19 20:13:28,120 開始擷取
+2023-06-19 20:13:42,329 第0部分完成~
+2023-06-19 20:13:44,985 擷取完成～ＣＤ中
+2023-06-19 20:14:09,986 開始擷取
+2023-06-19 20:14:24,229 第1部分完成~
+2023-06-19 20:14:34,482 擷取完成～ＣＤ中
+2023-06-19 20:14:59,483 開始擷取
+2023-06-19 20:15:13,196 第2部分完成~
+2023-06-19 20:15:18,028 擷取完成～ＣＤ中
+2023-06-19 20:15:43,029 開始擷取
+2023-06-19 20:15:59,118 第3部分完成~
+2023-06-19 20:16:00,823 擷取完成～ＣＤ中
+2023-06-19 20:16:25,824 開始擷取
+2023-06-19 20:16:38,842 第4部分完成~
+2023-06-19 20:16:40,736 擷取完成～ＣＤ中
+2023-06-19 20:17:05,737 開始擷取
+2023-06-19 20:17:19,056 第5部分完成~
+2023-06-19 20:17:22,909 擷取完成～ＣＤ中
+2023-06-19 20:17:47,910 開始擷取
+2023-06-19 20:17:59,892 第6部分完成~
+2023-06-19 20:18:03,210 擷取完成～ＣＤ中
+2023-06-19 20:18:28,211 開始擷取
+2023-06-19 20:18:42,957 第7部分完成~
+2023-06-19 20:18:47,760 擷取完成～ＣＤ中
+2023-06-19 20:19:12,762 開始擷取
+2023-06-19 20:19:25,194 第8部分完成~
+2023-06-19 20:19:30,489 擷取完成～ＣＤ中
+2023-06-19 20:19:55,490 開始擷取
+2023-06-19 20:20:12,484 第9部分完成~
+2023-06-19 20:20:16,104 擷取完成～ＣＤ中
+2023-06-19 20:20:41,105 開始擷取
+2023-06-19 20:20:57,653 第10部分完成~
+2023-06-19 20:21:01,687 擷取完成～ＣＤ中
+2023-06-19 20:21:26,689 開始擷取
+2023-06-19 20:21:38,971 第11部分完成~
+2023-06-19 20:21:45,767 擷取完成～ＣＤ中
+2023-06-19 20:22:10,768 開始擷取
+2023-06-19 20:22:25,325 第12部分完成~
+2023-06-19 20:22:30,654 擷取完成～ＣＤ中
+2023-06-19 20:22:55,655 開始擷取
+2023-06-19 20:23:08,940 第13部分完成~
+2023-06-19 20:23:15,132 擷取完成～ＣＤ中
+2023-06-19 20:23:40,134 開始擷取
+2023-06-19 20:23:51,990 第14部分完成~
+2023-06-19 20:23:53,521 擷取完成～ＣＤ中
+2023-06-19 20:24:18,523 開始擷取
+2023-06-19 20:24:31,925 第15部分完成~
+2023-06-19 20:24:37,369 擷取完成～ＣＤ中
+2023-06-19 20:25:02,371 開始擷取
+2023-06-19 20:25:14,633 第16部分完成~
+2023-06-19 20:25:17,161 擷取完成～ＣＤ中
+2023-06-19 20:25:42,161 開始擷取
+2023-06-19 20:25:53,433 第17部分完成~
+2023-06-19 20:25:57,459 擷取完成～ＣＤ中
+2023-06-19 20:26:22,460 開始擷取
+2023-06-19 20:26:36,084 第18部分完成~
+2023-06-19 20:26:40,037 擷取完成～ＣＤ中
+2023-06-19 20:27:05,039 開始擷取
+2023-06-19 20:27:07,643 第19部分完成~
+2023-06-19 20:27:14,806 擷取完成～ＣＤ中
+2023-06-19 20:27:40,603 第2位分析師的影片共有1部
+2023-06-19 20:28:26,217 開始擷取
+2023-06-19 20:28:37,686 第0部分完成~
+2023-06-19 20:28:44,044 擷取完成～ＣＤ中
+2023-06-19 20:29:09,046 開始擷取
+2023-06-19 20:29:23,770 第1部分完成~
+2023-06-19 20:29:25,470 擷取完成～ＣＤ中
+2023-06-19 20:29:50,471 開始擷取
+2023-06-19 20:30:01,529 第2部分完成~
+2023-06-19 20:30:03,133 擷取完成～ＣＤ中
+2023-06-19 20:30:28,135 開始擷取
+2023-06-19 20:30:40,889 第3部分完成~
+2023-06-19 20:30:46,332 擷取完成～ＣＤ中
+2023-06-19 20:31:11,333 開始擷取
+2023-06-19 20:31:24,987 第4部分完成~
+2023-06-19 20:31:40,376 擷取完成～ＣＤ中
+2023-06-19 20:32:05,377 開始擷取
+2023-06-19 20:32:19,596 第5部分完成~
+2023-06-19 20:32:34,551 擷取完成～ＣＤ中
+2023-06-19 20:32:59,553 開始擷取
+2023-06-19 20:33:11,530 第6部分完成~
+2023-06-19 20:33:16,152 擷取完成～ＣＤ中
+2023-06-19 20:33:41,153 開始擷取
+2023-06-19 20:33:54,173 第7部分完成~
+2023-06-19 20:33:58,979 擷取完成～ＣＤ中
+2023-06-19 20:34:23,981 開始擷取
+2023-06-19 20:34:40,772 第8部分完成~
+2023-06-19 20:34:43,125 擷取完成～ＣＤ中
+2023-06-19 20:35:08,126 開始擷取
+2023-06-19 20:35:29,138 第9部分完成~
+2023-06-19 20:35:31,141 擷取完成～ＣＤ中
+2023-06-19 20:35:56,142 開始擷取
+2023-06-19 20:36:13,034 第10部分完成~
+2023-06-19 20:36:19,083 擷取完成～ＣＤ中
+2023-06-19 20:36:44,083 開始擷取
+2023-06-19 20:36:58,814 第11部分完成~
+2023-06-19 20:37:03,907 擷取完成～ＣＤ中
+2023-06-19 20:37:28,908 開始擷取
+2023-06-19 20:37:36,741 第12部分完成~
+2023-06-19 20:37:39,154 擷取完成～ＣＤ中
+2023-06-20 20:58:03,455 第1位分析師的影片共有3部
+2023-06-20 20:59:21,166 開始擷取
+2023-06-20 20:59:30,513 第0部分完成~
+2023-06-20 20:59:31,887 擷取完成～ＣＤ中
+2023-06-20 20:59:56,887 開始擷取
+2023-06-20 21:00:08,338 第1部分完成~
+2023-06-20 21:00:08,657 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4111 tokens (1611 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-20 21:00:08,657 第1部份發生錯誤
+2023-06-20 21:00:08,657 開始擷取
+2023-06-20 21:00:19,440 第2部分完成~
+2023-06-20 21:00:24,769 擷取完成～ＣＤ中
+2023-06-20 21:00:49,771 開始擷取
+2023-06-20 21:00:59,540 第3部分完成~
+2023-06-20 21:01:01,474 擷取完成～ＣＤ中
+2023-06-20 21:01:26,476 開始擷取
+2023-06-20 21:01:36,493 第4部分完成~
+2023-06-20 21:01:38,539 擷取完成～ＣＤ中
+2023-06-20 21:02:03,540 開始擷取
+2023-06-20 21:02:41,444 第5部分完成~
+2023-06-20 21:02:47,677 擷取完成～ＣＤ中
+2023-06-20 21:03:12,679 開始擷取
+2023-06-20 21:03:22,263 第6部分完成~
+2023-06-20 21:03:23,833 擷取完成～ＣＤ中
+2023-06-20 21:03:48,834 開始擷取
+2023-06-20 21:04:02,265 第7部分完成~
+2023-06-20 21:04:05,721 擷取完成～ＣＤ中
+2023-06-20 21:04:30,723 開始擷取
+2023-06-20 21:04:41,942 第8部分完成~
+2023-06-20 21:04:43,550 擷取完成～ＣＤ中
+2023-06-20 21:05:08,552 開始擷取
+2023-06-20 21:05:18,526 第9部分完成~
+2023-06-20 21:05:20,350 擷取完成～ＣＤ中
+2023-06-20 21:05:45,353 開始擷取
+2023-06-20 21:05:56,625 第10部分完成~
+2023-06-20 21:06:03,285 擷取完成～ＣＤ中
+2023-06-20 21:06:28,286 開始擷取
+2023-06-20 21:06:38,374 第11部分完成~
+2023-06-20 21:06:38,838 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4134 tokens (1634 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-20 21:06:38,838 第11部份發生錯誤
+2023-06-20 21:06:38,839 開始擷取
+2023-06-20 21:06:49,345 第12部分完成~
+2023-06-20 21:06:50,961 擷取完成～ＣＤ中
+2023-06-20 21:07:15,962 開始擷取
+2023-06-20 21:07:26,429 第13部分完成~
+2023-06-20 21:07:29,953 擷取完成～ＣＤ中
+2023-06-20 21:07:54,954 開始擷取
+2023-06-20 21:08:04,826 第14部分完成~
+2023-06-20 21:08:08,354 擷取完成～ＣＤ中
+2023-06-20 21:08:33,355 開始擷取
+2023-06-20 21:08:44,514 第15部分完成~
+2023-06-20 21:08:46,432 擷取完成～ＣＤ中
+2023-06-20 21:09:11,433 開始擷取
+2023-06-20 21:09:21,309 第16部分完成~
+2023-06-20 21:09:23,893 擷取完成～ＣＤ中
+2023-06-20 21:09:48,894 開始擷取
+2023-06-20 21:09:57,615 第17部分完成~
+2023-06-20 21:10:00,052 擷取完成～ＣＤ中
+2023-06-20 21:10:25,053 開始擷取
+2023-06-20 21:10:30,109 第18部分完成~
+2023-06-20 21:10:32,697 擷取完成～ＣＤ中
+2023-06-20 21:10:58,744 第2位分析師的影片共有1部
+2023-06-20 21:11:39,579 開始擷取
+2023-06-20 21:11:50,181 第0部分完成~
+2023-06-20 21:11:55,650 擷取完成～ＣＤ中
+2023-06-20 21:12:20,651 開始擷取
+2023-06-20 21:12:30,666 第1部分完成~
+2023-06-20 21:12:33,326 擷取完成～ＣＤ中
+2023-06-20 21:12:58,327 開始擷取
+2023-06-20 21:13:08,858 第2部分完成~
+2023-06-20 21:13:10,693 擷取完成～ＣＤ中
+2023-06-20 21:13:35,694 開始擷取
+2023-06-20 21:13:46,590 第3部分完成~
+2023-06-20 21:13:48,198 擷取完成～ＣＤ中
+2023-06-20 21:14:13,198 開始擷取
+2023-06-20 21:14:22,133 第4部分完成~
+2023-06-20 21:14:23,109 擷取完成～ＣＤ中
+2023-06-20 21:14:48,110 開始擷取
+2023-06-20 21:14:59,998 第5部分完成~
+2023-06-20 21:15:03,720 擷取完成～ＣＤ中
+2023-06-20 21:15:28,721 開始擷取
+2023-06-20 21:15:37,953 第6部分完成~
+2023-06-20 21:15:39,238 擷取完成～ＣＤ中
+2023-06-20 21:16:04,240 開始擷取
+2023-06-20 21:16:14,691 第7部分完成~
+2023-06-20 21:16:16,849 擷取完成～ＣＤ中
+2023-06-20 21:16:41,850 開始擷取
+2023-06-20 21:16:53,157 第8部分完成~
+2023-06-20 21:17:03,199 擷取完成～ＣＤ中
+2023-06-20 21:17:28,200 開始擷取
+2023-06-20 21:17:39,571 第9部分完成~
+2023-06-20 21:17:41,537 擷取完成～ＣＤ中
+2023-06-20 21:18:06,538 開始擷取
+2023-06-20 21:18:24,355 第10部分完成~
+2023-06-20 21:18:34,800 擷取完成～ＣＤ中
+2023-06-20 21:18:59,801 開始擷取
+2023-06-20 21:19:13,533 第11部分完成~
+2023-06-20 21:19:19,095 擷取完成～ＣＤ中
+2023-06-20 21:19:44,096 開始擷取
+2023-06-20 21:19:49,762 第12部分完成~
+2023-06-20 21:19:51,891 擷取完成～ＣＤ中
+2023-06-26 21:05:32,327 第1位分析師的影片共有2部
+2023-06-26 21:12:31,985 第1位分析師的影片共有2部
+2023-06-26 21:27:40,699 第1位分析師的影片共有2部
+2023-06-26 21:29:54,142 第1位分析師的影片共有2部
+2023-06-26 21:36:25,129 第1位分析師的影片共有2部
+2023-06-26 21:37:43,382 第1位分析師的影片共有2部
+2023-06-26 21:38:53,602 第1位分析師的影片共有2部
+2023-06-26 21:39:31,722 第1位分析師的影片共有2部
+2023-06-26 21:41:06,491 第1位分析師的影片共有2部
+2023-06-26 21:42:47,425 第1位分析師的影片共有2部
+2023-06-26 21:43:43,864 第1位分析師的影片共有2部
+2023-06-26 21:44:54,317 第1位分析師的影片共有2部
+2023-06-26 21:45:59,932 第1位分析師的影片共有2部
+2023-06-26 22:14:17,697 第1位分析師的影片共有2部
+2023-06-26 22:16:24,740 第1位分析師的影片共有2部
+2023-06-26 22:19:14,661 第1位分析師的影片共有2部
+2023-06-26 22:21:48,001 第1位分析師的影片共有2部
+2023-06-26 22:24:42,693 第1位分析師的影片共有2部
+2023-06-26 22:25:50,375 開始擷取
+2023-06-26 22:26:07,953 第0部分完成~
+2023-06-26 22:26:11,359 擷取完成～ＣＤ中
+2023-06-26 22:26:36,359 開始擷取
+2023-06-26 22:26:55,772 第1部分完成~
+2023-06-26 22:26:59,337 擷取完成～ＣＤ中
+2023-06-26 22:27:24,337 開始擷取
+2023-06-26 22:27:35,053 第2部分完成~
+2023-06-26 22:27:35,675 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4146 tokens (1646 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-26 22:27:35,676 第2部份發生錯誤
+2023-06-26 22:27:35,677 開始擷取
+2023-06-26 22:27:45,134 第3部分完成~
+2023-06-26 22:27:55,575 擷取完成～ＣＤ中
+2023-06-26 22:28:20,577 開始擷取
+2023-06-26 22:28:30,849 第4部分完成~
+2023-06-26 22:28:32,313 擷取完成～ＣＤ中
+2023-06-26 22:28:57,314 開始擷取
+2023-06-26 22:29:05,906 第5部分完成~
+2023-06-26 22:29:10,112 擷取完成～ＣＤ中
+2023-06-26 22:29:35,113 開始擷取
+2023-06-26 22:29:45,787 第6部分完成~
+2023-06-26 22:29:57,671 擷取完成～ＣＤ中
+2023-06-26 22:30:22,672 開始擷取
+2023-06-26 22:30:34,105 第7部分完成~
+2023-06-26 22:30:37,212 擷取完成～ＣＤ中
+2023-06-26 22:31:02,213 開始擷取
+2023-06-26 22:31:13,510 第8部分完成~
+2023-06-26 22:31:16,699 擷取完成～ＣＤ中
+2023-06-26 22:31:42,870 開始擷取
+2023-06-26 22:31:54,093 第9部分完成~
+2023-06-26 22:31:56,910 擷取完成～ＣＤ中
+2023-06-26 22:32:21,911 開始擷取
+2023-06-26 22:32:31,738 第10部分完成~
+2023-06-26 22:32:35,412 擷取完成～ＣＤ中
+2023-06-26 22:33:00,413 開始擷取
+2023-06-26 22:33:10,740 第11部分完成~
+2023-06-26 22:33:17,960 擷取完成～ＣＤ中
+2023-06-26 22:33:42,961 開始擷取
+2023-06-26 22:33:52,705 第12部分完成~
+2023-06-26 22:33:53,727 擷取完成～ＣＤ中
+2023-06-26 22:34:18,729 開始擷取
+2023-06-26 22:34:31,152 第13部分完成~
+2023-06-26 22:34:31,701 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4127 tokens (1627 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-26 22:34:31,702 第13部份發生錯誤
+2023-06-26 22:34:31,702 開始擷取
+2023-06-26 22:34:43,868 第14部分完成~
+2023-06-26 22:34:56,001 擷取完成～ＣＤ中
+2023-06-26 22:35:21,002 開始擷取
+2023-06-26 22:35:32,516 第15部分完成~
+2023-06-26 22:35:37,740 擷取完成～ＣＤ中
+2023-06-26 22:36:02,741 開始擷取
+2023-06-26 22:36:16,086 第16部分完成~
+2023-06-26 22:36:18,936 擷取完成～ＣＤ中
+2023-06-26 22:36:43,938 開始擷取
+2023-06-26 22:36:56,607 第17部分完成~
+2023-06-26 22:36:58,730 擷取完成～ＣＤ中
+2023-06-26 22:37:23,731 開始擷取
+2023-06-26 22:37:24,118 error_code=audio_too_short error_message='Audio file is too short. Minimum audio length is 0.1 seconds.' error_param=file error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-26 22:37:24,119 第18部份發生錯誤
+2023-06-26 22:37:24,749 第2位分析師的影片共有1部
+2023-06-26 22:38:04,097 開始擷取
+2023-06-26 22:38:15,387 第0部分完成~
+2023-06-26 22:38:17,055 擷取完成～ＣＤ中
+2023-06-26 22:38:42,057 開始擷取
+2023-06-26 22:38:58,268 第1部分完成~
+2023-06-26 22:39:00,710 擷取完成～ＣＤ中
+2023-06-26 22:39:25,711 開始擷取
+2023-06-26 22:39:41,482 第2部分完成~
+2023-06-26 22:39:43,726 擷取完成～ＣＤ中
+2023-06-26 22:40:08,727 開始擷取
+2023-06-26 22:40:21,148 第3部分完成~
+2023-06-26 22:40:34,929 擷取完成～ＣＤ中
+2023-06-26 22:40:59,931 開始擷取
+2023-06-26 22:41:13,950 第4部分完成~
+2023-06-26 22:41:19,082 擷取完成～ＣＤ中
+2023-06-26 22:41:44,084 開始擷取
+2023-06-26 22:42:02,299 第5部分完成~
+2023-06-26 22:42:05,484 擷取完成～ＣＤ中
+2023-06-26 22:42:30,486 開始擷取
+2023-06-26 22:42:44,954 第6部分完成~
+2023-06-26 22:42:49,365 擷取完成～ＣＤ中
+2023-06-26 22:43:14,366 開始擷取
+2023-06-26 22:43:32,242 第7部分完成~
+2023-06-26 22:43:37,640 擷取完成～ＣＤ中
+2023-06-26 22:44:02,642 開始擷取
+2023-06-26 22:44:17,635 第8部分完成~
+2023-06-26 22:44:21,170 擷取完成～ＣＤ中
+2023-06-26 22:44:46,171 開始擷取
+2023-06-26 22:45:02,114 第9部分完成~
+2023-06-26 22:45:10,566 擷取完成～ＣＤ中
+2023-06-26 22:45:35,567 開始擷取
+2023-06-26 22:45:52,412 第10部分完成~
+2023-06-26 22:45:56,200 擷取完成～ＣＤ中
+2023-06-26 22:46:21,201 開始擷取
+2023-06-26 22:46:38,754 第11部分完成~
+2023-06-26 22:46:41,641 擷取完成～ＣＤ中
+2023-06-26 22:47:06,642 開始擷取
+2023-06-26 22:47:13,002 第12部分完成~
+2023-06-26 22:47:15,241 擷取完成～ＣＤ中
+2023-06-27 22:09:38,227 第1位分析師的影片共有3部
+2023-06-27 22:10:46,419 開始擷取
+2023-06-27 22:11:03,467 第0部分完成~
+2023-06-27 22:11:05,760 擷取完成～ＣＤ中
+2023-06-27 22:11:30,761 開始擷取
+2023-06-27 22:11:45,873 第1部分完成~
+2023-06-27 22:11:49,921 擷取完成～ＣＤ中
+2023-06-27 22:12:14,922 開始擷取
+2023-06-27 22:12:30,115 第2部分完成~
+2023-06-27 22:12:35,558 擷取完成～ＣＤ中
+2023-06-27 22:13:00,559 開始擷取
+2023-06-27 22:13:14,917 第3部分完成~
+2023-06-27 22:13:16,519 擷取完成～ＣＤ中
+2023-06-27 22:13:41,520 開始擷取
+2023-06-27 22:13:57,163 第4部分完成~
+2023-06-27 22:13:58,767 擷取完成～ＣＤ中
+2023-06-27 22:14:23,768 開始擷取
+2023-06-27 22:14:39,395 第5部分完成~
+2023-06-27 22:14:44,271 擷取完成～ＣＤ中
+2023-06-27 22:15:09,272 開始擷取
+2023-06-27 22:15:24,118 第6部分完成~
+2023-06-27 22:15:26,489 擷取完成～ＣＤ中
+2023-06-27 22:15:51,490 開始擷取
+2023-06-27 22:16:06,437 第7部分完成~
+2023-06-27 22:16:10,282 擷取完成～ＣＤ中
+2023-06-27 22:16:35,284 開始擷取
+2023-06-27 22:16:49,915 第8部分完成~
+2023-06-27 22:16:53,148 擷取完成～ＣＤ中
+2023-06-27 22:17:18,150 開始擷取
+2023-06-27 22:17:31,226 第9部分完成~
+2023-06-27 22:17:32,373 擷取完成～ＣＤ中
+2023-06-27 22:17:57,374 開始擷取
+2023-06-27 22:18:11,559 第10部分完成~
+2023-06-27 22:18:14,662 擷取完成～ＣＤ中
+2023-06-27 22:18:39,663 開始擷取
+2023-06-27 22:18:59,827 第11部分完成~
+2023-06-27 22:19:03,714 擷取完成～ＣＤ中
+2023-06-27 22:19:28,715 開始擷取
+2023-06-27 22:19:40,016 第12部分完成~
+2023-06-27 22:19:46,957 擷取完成～ＣＤ中
+2023-06-27 22:20:11,958 開始擷取
+2023-06-27 22:20:22,769 第13部分完成~
+2023-06-27 22:20:25,699 擷取完成～ＣＤ中
+2023-06-27 22:20:50,700 開始擷取
+2023-06-27 22:21:02,694 第14部分完成~
+2023-06-27 22:21:03,015 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4100 tokens (1600 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-27 22:21:03,016 第14部份發生錯誤
+2023-06-27 22:21:03,016 開始擷取
+2023-06-27 22:21:14,770 第15部分完成~
+2023-06-27 22:21:17,491 擷取完成～ＣＤ中
+2023-06-27 22:21:42,492 開始擷取
+2023-06-27 22:21:55,882 第16部分完成~
+2023-06-27 22:21:58,452 擷取完成～ＣＤ中
+2023-06-27 22:22:23,453 開始擷取
+2023-06-27 22:22:35,247 第17部分完成~
+2023-06-27 22:22:36,672 擷取完成～ＣＤ中
+2023-06-27 22:23:01,673 開始擷取
+2023-06-27 22:23:09,487 第18部分完成~
+2023-06-27 22:23:17,810 擷取完成～ＣＤ中
+2023-06-27 22:23:43,735 第2位分析師的影片共有2部
+2023-06-27 22:24:20,618 開始擷取
+2023-06-27 22:24:30,766 第0部分完成~
+2023-06-27 22:24:37,496 擷取完成～ＣＤ中
+2023-06-27 22:25:02,498 開始擷取
+2023-06-27 22:25:14,290 第1部分完成~
+2023-06-27 22:25:20,066 擷取完成～ＣＤ中
+2023-06-27 22:25:45,067 開始擷取
+2023-06-27 22:25:56,287 第2部分完成~
+2023-06-27 22:26:00,700 擷取完成～ＣＤ中
+2023-06-27 22:26:25,701 開始擷取
+2023-06-27 22:26:40,698 第3部分完成~
+2023-06-27 22:26:44,149 擷取完成～ＣＤ中
+2023-06-27 22:27:09,151 開始擷取
+2023-06-27 22:27:23,238 第4部分完成~
+2023-06-27 22:27:35,421 擷取完成～ＣＤ中
+2023-06-27 22:28:00,422 開始擷取
+2023-06-27 22:28:11,858 第5部分完成~
+2023-06-27 22:28:15,738 擷取完成～ＣＤ中
+2023-06-27 22:28:40,740 開始擷取
+2023-06-27 22:28:53,862 第6部分完成~
+2023-06-27 22:28:57,532 擷取完成～ＣＤ中
+2023-06-27 22:29:22,533 開始擷取
+2023-06-27 22:29:36,813 第7部分完成~
+2023-06-27 22:29:40,055 擷取完成～ＣＤ中
+2023-06-27 22:30:05,056 開始擷取
+2023-06-27 22:30:17,331 第8部分完成~
+2023-06-27 22:30:30,183 擷取完成～ＣＤ中
+2023-06-27 22:30:55,184 開始擷取
+2023-06-27 22:31:07,571 第9部分完成~
+2023-06-27 22:31:11,419 擷取完成～ＣＤ中
+2023-06-27 22:31:36,421 開始擷取
+2023-06-27 22:31:50,773 第10部分完成~
+2023-06-27 22:31:58,458 擷取完成～ＣＤ中
+2023-06-27 22:32:23,472 開始擷取
+2023-06-27 22:32:37,232 第11部分完成~
+2023-06-27 22:32:38,779 擷取完成～ＣＤ中
+2023-06-27 22:33:03,781 開始擷取
+2023-06-27 22:33:09,813 第12部分完成~
+2023-06-27 22:33:12,706 擷取完成～ＣＤ中
+2023-06-29 22:24:33,460 第1位分析師的影片共有3部
+2023-06-29 22:25:44,363 開始擷取
+2023-06-29 22:25:55,802 第0部分完成~
+2023-06-29 22:25:58,527 擷取完成～ＣＤ中
+2023-06-29 22:26:23,529 開始擷取
+2023-06-29 22:26:38,930 第1部分完成~
+2023-06-29 22:26:44,637 擷取完成～ＣＤ中
+2023-06-29 22:27:09,638 開始擷取
+2023-06-29 22:27:21,464 第2部分完成~
+2023-06-29 22:27:24,902 擷取完成～ＣＤ中
+2023-06-29 22:27:49,903 開始擷取
+2023-06-29 22:28:01,142 第3部分完成~
+2023-06-29 22:28:01,404 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4197 tokens (1697 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-29 22:28:01,404 第3部份發生錯誤
+2023-06-29 22:28:01,404 開始擷取
+2023-06-29 22:28:12,303 第4部分完成~
+2023-06-29 22:28:16,281 擷取完成～ＣＤ中
+2023-06-29 22:28:41,282 開始擷取
+2023-06-29 22:28:54,568 第5部分完成~
+2023-06-29 22:29:02,544 擷取完成～ＣＤ中
+2023-06-29 22:29:27,546 開始擷取
+2023-06-29 22:29:38,601 第6部分完成~
+2023-06-29 22:29:44,248 擷取完成～ＣＤ中
+2023-06-29 22:30:09,248 開始擷取
+2023-06-29 22:30:20,630 第7部分完成~
+2023-06-29 22:30:23,843 擷取完成～ＣＤ中
+2023-06-29 22:30:48,845 開始擷取
+2023-06-29 22:31:00,948 第8部分完成~
+2023-06-29 22:31:01,581 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4114 tokens (1614 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-29 22:31:01,581 第8部份發生錯誤
+2023-06-29 22:31:01,582 開始擷取
+2023-06-29 22:31:11,957 第9部分完成~
+2023-06-29 22:31:12,462 error_code=None error_message="This model's maximum context length is 4097 tokens, however you requested 4101 tokens (1601 in your prompt; 2500 for the completion). Please reduce your prompt; or completion length." error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-06-29 22:31:12,463 第9部份發生錯誤
+2023-06-29 22:31:12,463 開始擷取
+2023-06-29 22:31:22,392 第10部分完成~
+2023-06-29 22:31:30,411 擷取完成～ＣＤ中
+2023-06-29 22:31:55,413 開始擷取
+2023-06-29 22:32:06,064 第11部分完成~
+2023-06-29 22:32:10,398 擷取完成～ＣＤ中
+2023-06-29 22:32:35,398 開始擷取
+2023-06-29 22:32:46,240 第12部分完成~
+2023-06-29 22:32:48,262 擷取完成～ＣＤ中
+2023-06-29 22:33:13,264 開始擷取
+2023-06-29 22:33:24,632 第13部分完成~
+2023-06-29 22:33:31,951 擷取完成～ＣＤ中
+2023-06-29 22:33:58,171 開始擷取
+2023-06-29 22:34:08,521 第14部分完成~
+2023-06-29 22:34:15,776 擷取完成～ＣＤ中
+2023-06-29 22:34:40,778 開始擷取
+2023-06-29 22:34:51,286 第15部分完成~
+2023-06-29 22:34:53,222 擷取完成～ＣＤ中
+2023-06-29 22:35:18,224 開始擷取
+2023-06-29 22:35:29,682 第16部分完成~
+2023-06-29 22:35:31,460 擷取完成～ＣＤ中
+2023-06-29 22:35:56,461 開始擷取
+2023-06-29 22:36:07,524 第17部分完成~
+2023-06-29 22:36:11,045 擷取完成～ＣＤ中
+2023-06-29 22:36:36,045 開始擷取
+2023-06-29 22:36:42,330 第18部分完成~
+2023-06-29 22:36:44,568 擷取完成～ＣＤ中
+2023-06-29 22:37:10,559 第2位分析師的影片共有1部
+2023-06-29 22:37:59,225 開始擷取
+2023-06-29 22:38:09,369 第0部分完成~
+2023-06-29 22:38:20,885 擷取完成～ＣＤ中
+2023-06-29 22:38:45,886 開始擷取
+2023-06-29 22:38:56,734 第1部分完成~
+2023-06-29 22:39:02,170 擷取完成～ＣＤ中
+2023-06-29 22:39:27,171 開始擷取
+2023-06-29 22:39:37,773 第2部分完成~
+2023-06-29 22:39:41,850 擷取完成～ＣＤ中
+2023-06-29 22:40:06,852 開始擷取
+2023-06-29 22:40:17,048 第3部分完成~
+2023-06-29 22:40:23,317 擷取完成～ＣＤ中
+2023-06-29 22:40:48,318 開始擷取
+2023-06-29 22:40:57,440 第4部分完成~
+2023-06-29 22:41:07,295 擷取完成～ＣＤ中
+2023-06-29 22:41:32,296 開始擷取
+2023-06-29 22:41:43,130 第5部分完成~
+2023-06-29 22:41:48,596 擷取完成～ＣＤ中
+2023-06-29 22:42:13,597 開始擷取
+2023-06-29 22:42:24,730 第6部分完成~
+2023-06-29 22:42:29,125 擷取完成～ＣＤ中
+2023-06-29 22:42:54,126 開始擷取
+2023-06-29 22:43:03,769 第7部分完成~
+2023-06-29 22:43:07,295 擷取完成～ＣＤ中
+2023-06-29 22:43:32,297 開始擷取
+2023-06-29 22:43:43,770 第8部分完成~
+2023-06-29 22:43:46,775 擷取完成～ＣＤ中
+2023-06-29 22:44:11,777 開始擷取
+2023-06-29 22:44:22,885 第9部分完成~
+2023-06-29 22:44:31,058 擷取完成～ＣＤ中
+2023-06-29 22:44:56,059 開始擷取
+2023-06-29 22:45:07,291 第10部分完成~
+2023-06-29 22:45:14,339 擷取完成～ＣＤ中
+2023-06-29 22:45:39,340 開始擷取
+2023-06-29 22:45:50,876 第11部分完成~
+2023-06-29 22:45:56,256 擷取完成～ＣＤ中
+2023-06-29 22:46:21,258 開始擷取
+2023-06-29 22:46:26,657 第12部分完成~
+2023-06-29 22:46:29,217 擷取完成～ＣＤ中
+2023-07-03 20:44:48,538 第1位分析師的影片共有2部
+2023-07-03 20:46:05,238 開始擷取
+2023-07-03 20:46:16,531 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:46:16,533 第0部份發生錯誤
+2023-07-03 20:46:16,535 開始擷取
+2023-07-03 20:46:26,944 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:46:26,945 第1部份發生錯誤
+2023-07-03 20:46:26,945 開始擷取
+2023-07-03 20:46:38,078 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:46:38,079 第2部份發生錯誤
+2023-07-03 20:46:38,081 開始擷取
+2023-07-03 20:46:49,481 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:46:49,482 第3部份發生錯誤
+2023-07-03 20:46:49,484 開始擷取
+2023-07-03 20:47:01,004 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:01,005 第4部份發生錯誤
+2023-07-03 20:47:01,006 開始擷取
+2023-07-03 20:47:07,048 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:07,049 第5部份發生錯誤
+2023-07-03 20:47:07,051 開始擷取
+2023-07-03 20:47:11,242 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:11,243 第6部份發生錯誤
+2023-07-03 20:47:11,244 開始擷取
+2023-07-03 20:47:15,740 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:15,839 第7部份發生錯誤
+2023-07-03 20:47:15,840 開始擷取
+2023-07-03 20:47:19,785 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:19,786 第8部份發生錯誤
+2023-07-03 20:47:19,787 開始擷取
+2023-07-03 20:47:25,642 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:25,643 第9部份發生錯誤
+2023-07-03 20:47:25,645 開始擷取
+2023-07-03 20:47:29,813 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:29,814 第10部份發生錯誤
+2023-07-03 20:47:29,815 開始擷取
+2023-07-03 20:47:34,923 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:34,924 第11部份發生錯誤
+2023-07-03 20:47:34,925 開始擷取
+2023-07-03 20:47:39,402 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:39,403 第12部份發生錯誤
+2023-07-03 20:47:39,404 開始擷取
+2023-07-03 20:47:43,581 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:43,582 第13部份發生錯誤
+2023-07-03 20:47:43,584 開始擷取
+2023-07-03 20:47:47,418 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:47,419 第14部份發生錯誤
+2023-07-03 20:47:47,420 開始擷取
+2023-07-03 20:47:51,882 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:51,883 第15部份發生錯誤
+2023-07-03 20:47:51,884 開始擷取
+2023-07-03 20:47:55,732 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:47:55,733 第16部份發生錯誤
+2023-07-03 20:47:55,734 開始擷取
+2023-07-03 20:48:00,842 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:48:00,843 第17部份發生錯誤
+2023-07-03 20:48:00,845 開始擷取
+2023-07-03 20:48:07,059 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:48:07,060 第18部份發生錯誤
+2023-07-03 20:48:07,060 開始擷取
+2023-07-03 20:48:09,275 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:48:09,276 第19部份發生錯誤
+2023-07-03 20:48:09,984 第2位分析師的影片共有1部
+2023-07-03 20:48:50,492 開始擷取
+2023-07-03 20:49:00,526 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:49:00,631 第0部份發生錯誤
+2023-07-03 20:49:00,632 開始擷取
+2023-07-03 20:49:13,164 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:49:13,165 第1部份發生錯誤
+2023-07-03 20:49:13,166 開始擷取
+2023-07-03 20:49:27,323 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:49:27,324 第2部份發生錯誤
+2023-07-03 20:49:27,325 開始擷取
+2023-07-03 20:49:41,332 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:49:41,333 第3部份發生錯誤
+2023-07-03 20:49:41,334 開始擷取
+2023-07-03 20:49:51,311 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:49:51,311 第4部份發生錯誤
+2023-07-03 20:49:51,312 開始擷取
+2023-07-03 20:50:03,726 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:50:03,727 第5部份發生錯誤
+2023-07-03 20:50:03,728 開始擷取
+2023-07-03 20:50:16,532 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:50:16,533 第6部份發生錯誤
+2023-07-03 20:50:16,535 開始擷取
+2023-07-03 20:50:26,024 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:50:26,025 第7部份發生錯誤
+2023-07-03 20:50:26,026 開始擷取
+2023-07-03 20:50:35,744 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:50:35,745 第8部份發生錯誤
+2023-07-03 20:50:35,746 開始擷取
+2023-07-03 20:50:46,605 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:50:46,606 第9部份發生錯誤
+2023-07-03 20:50:46,607 開始擷取
+2023-07-03 20:51:02,311 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:51:02,312 第10部份發生錯誤
+2023-07-03 20:51:02,313 開始擷取
+2023-07-03 20:51:11,717 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 20:51:11,718 第11部份發生錯誤
+2023-07-03 22:46:34,650 第1位分析師的影片共有2部
+2023-07-03 22:48:11,060 開始擷取
+2023-07-03 22:48:17,479 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:17,479 第0部份發生錯誤
+2023-07-03 22:48:17,479 開始擷取
+2023-07-03 22:48:22,921 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:22,921 第1部份發生錯誤
+2023-07-03 22:48:22,922 開始擷取
+2023-07-03 22:48:28,680 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:28,680 第2部份發生錯誤
+2023-07-03 22:48:28,680 開始擷取
+2023-07-03 22:48:34,759 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:34,759 第3部份發生錯誤
+2023-07-03 22:48:34,760 開始擷取
+2023-07-03 22:48:41,159 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:41,159 第4部份發生錯誤
+2023-07-03 22:48:41,159 開始擷取
+2023-07-03 22:48:46,919 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:46,919 第5部份發生錯誤
+2023-07-03 22:48:46,919 開始擷取
+2023-07-03 22:48:52,679 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:52,679 第6部份發生錯誤
+2023-07-03 22:48:52,680 開始擷取
+2023-07-03 22:48:58,119 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:48:58,120 第7部份發生錯誤
+2023-07-03 22:48:58,120 開始擷取
+2023-07-03 22:49:03,559 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:03,559 第8部份發生錯誤
+2023-07-03 22:49:03,559 開始擷取
+2023-07-03 22:49:09,320 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:09,320 第9部份發生錯誤
+2023-07-03 22:49:09,321 開始擷取
+2023-07-03 22:49:15,398 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:15,399 第10部份發生錯誤
+2023-07-03 22:49:15,399 開始擷取
+2023-07-03 22:49:20,840 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:20,840 第11部份發生錯誤
+2023-07-03 22:49:20,840 開始擷取
+2023-07-03 22:49:26,281 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:26,281 第12部份發生錯誤
+2023-07-03 22:49:26,281 開始擷取
+2023-07-03 22:49:32,360 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:32,360 第13部份發生錯誤
+2023-07-03 22:49:32,361 開始擷取
+2023-07-03 22:49:38,168 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:38,168 第14部份發生錯誤
+2023-07-03 22:49:38,169 開始擷取
+2023-07-03 22:49:44,244 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:44,245 第15部份發生錯誤
+2023-07-03 22:49:44,245 開始擷取
+2023-07-03 22:49:49,944 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:49,945 第16部份發生錯誤
+2023-07-03 22:49:49,945 開始擷取
+2023-07-03 22:49:56,100 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:49:56,100 第17部份發生錯誤
+2023-07-03 22:49:56,101 開始擷取
+2023-07-03 22:50:02,900 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:50:02,900 第18部份發生錯誤
+2023-07-03 22:50:02,901 開始擷取
+2023-07-03 22:50:04,679 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:50:04,679 第19部份發生錯誤
+2023-07-03 22:50:05,265 第2位分析師的影片共有1部
+2023-07-03 22:50:48,362 開始擷取
+2023-07-03 22:50:53,953 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:50:53,953 第0部份發生錯誤
+2023-07-03 22:50:53,954 開始擷取
+2023-07-03 22:51:00,197 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:00,198 第1部份發生錯誤
+2023-07-03 22:51:00,199 開始擷取
+2023-07-03 22:51:05,916 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:05,916 第2部份發生錯誤
+2023-07-03 22:51:05,917 開始擷取
+2023-07-03 22:51:11,321 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:11,322 第3部份發生錯誤
+2023-07-03 22:51:11,322 開始擷取
+2023-07-03 22:51:16,938 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:16,938 第4部份發生錯誤
+2023-07-03 22:51:16,939 開始擷取
+2023-07-03 22:51:22,751 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:22,751 第5部份發生錯誤
+2023-07-03 22:51:22,752 開始擷取
+2023-07-03 22:51:28,920 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:28,921 第6部份發生錯誤
+2023-07-03 22:51:28,921 開始擷取
+2023-07-03 22:51:34,764 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:34,765 第7部份發生錯誤
+2023-07-03 22:51:34,765 開始擷取
+2023-07-03 22:51:40,574 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:40,574 第8部份發生錯誤
+2023-07-03 22:51:40,575 開始擷取
+2023-07-03 22:51:46,088 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:46,089 第9部份發生錯誤
+2023-07-03 22:51:46,090 開始擷取
+2023-07-03 22:51:52,523 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:52,523 第10部份發生錯誤
+2023-07-03 22:51:52,523 開始擷取
+2023-07-03 22:51:58,129 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:51:58,130 第11部份發生錯誤
+2023-07-03 22:53:52,530 第1位分析師的影片共有2部
+2023-07-03 22:55:04,703 開始擷取
+2023-07-03 22:55:10,361 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:10,361 第0部份發生錯誤
+2023-07-03 22:55:10,361 開始擷取
+2023-07-03 22:55:15,317 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:15,317 第1部份發生錯誤
+2023-07-03 22:55:15,317 開始擷取
+2023-07-03 22:55:20,575 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:20,575 第2部份發生錯誤
+2023-07-03 22:55:20,575 開始擷取
+2023-07-03 22:55:26,453 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:26,453 第3部份發生錯誤
+2023-07-03 22:55:26,454 開始擷取
+2023-07-03 22:55:32,201 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:32,201 第4部份發生錯誤
+2023-07-03 22:55:32,201 開始擷取
+2023-07-03 22:55:36,983 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:36,983 第5部份發生錯誤
+2023-07-03 22:55:36,984 開始擷取
+2023-07-03 22:55:42,754 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:42,755 第6部份發生錯誤
+2023-07-03 22:55:42,755 開始擷取
+2023-07-03 22:55:48,088 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:48,088 第7部份發生錯誤
+2023-07-03 22:55:48,088 開始擷取
+2023-07-03 22:55:53,760 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:53,761 第8部份發生錯誤
+2023-07-03 22:55:53,761 開始擷取
+2023-07-03 22:55:57,972 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:55:57,973 第9部份發生錯誤
+2023-07-03 22:55:57,973 開始擷取
+2023-07-03 22:56:02,997 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:02,998 第10部份發生錯誤
+2023-07-03 22:56:02,998 開始擷取
+2023-07-03 22:56:09,153 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:09,153 第11部份發生錯誤
+2023-07-03 22:56:09,154 開始擷取
+2023-07-03 22:56:14,220 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:14,220 第12部份發生錯誤
+2023-07-03 22:56:14,220 開始擷取
+2023-07-03 22:56:19,982 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:19,982 第13部份發生錯誤
+2023-07-03 22:56:19,982 開始擷取
+2023-07-03 22:56:25,678 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:25,678 第14部份發生錯誤
+2023-07-03 22:56:25,678 開始擷取
+2023-07-03 22:56:30,721 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:30,722 第15部份發生錯誤
+2023-07-03 22:56:30,722 開始擷取
+2023-07-03 22:56:35,204 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:35,205 第16部份發生錯誤
+2023-07-03 22:56:35,205 開始擷取
+2023-07-03 22:56:40,051 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:40,051 第17部份發生錯誤
+2023-07-03 22:56:40,052 開始擷取
+2023-07-03 22:56:44,560 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:44,561 第18部份發生錯誤
+2023-07-03 22:56:44,562 開始擷取
+2023-07-03 22:56:46,286 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:56:46,286 第19部份發生錯誤
+2023-07-03 22:56:46,909 第2位分析師的影片共有1部
+2023-07-03 22:57:21,859 開始擷取
+2023-07-03 22:57:27,128 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:27,128 第0部份發生錯誤
+2023-07-03 22:57:27,129 開始擷取
+2023-07-03 22:57:32,695 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:32,695 第1部份發生錯誤
+2023-07-03 22:57:32,695 開始擷取
+2023-07-03 22:57:37,165 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:37,166 第2部份發生錯誤
+2023-07-03 22:57:37,166 開始擷取
+2023-07-03 22:57:42,117 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:42,117 第3部份發生錯誤
+2023-07-03 22:57:42,117 開始擷取
+2023-07-03 22:57:45,973 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:45,973 第4部份發生錯誤
+2023-07-03 22:57:45,973 開始擷取
+2023-07-03 22:57:50,928 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:50,928 第5部份發生錯誤
+2023-07-03 22:57:50,929 開始擷取
+2023-07-03 22:57:55,108 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:57:55,108 第6部份發生錯誤
+2023-07-03 22:57:55,109 開始擷取
+2023-07-03 22:58:00,373 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:58:00,373 第7部份發生錯誤
+2023-07-03 22:58:00,374 開始擷取
+2023-07-03 22:58:06,036 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:58:06,036 第8部份發生錯誤
+2023-07-03 22:58:06,037 開始擷取
+2023-07-03 22:58:10,791 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:58:10,791 第9部份發生錯誤
+2023-07-03 22:58:10,791 開始擷取
+2023-07-03 22:58:15,556 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:58:15,557 第10部份發生錯誤
+2023-07-03 22:58:15,558 開始擷取
+2023-07-03 22:58:19,945 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-03 22:58:19,945 第11部份發生錯誤
+2023-07-04 21:21:21,848 第1位分析師的影片共有3部
+2023-07-04 21:23:00,721 開始擷取
+2023-07-04 21:23:06,422 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:06,424 第0部份發生錯誤
+2023-07-04 21:23:06,425 開始擷取
+2023-07-04 21:23:13,983 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:13,983 第1部份發生錯誤
+2023-07-04 21:23:13,984 開始擷取
+2023-07-04 21:23:17,500 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:17,501 第2部份發生錯誤
+2023-07-04 21:23:17,502 開始擷取
+2023-07-04 21:23:21,693 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:21,694 第3部份發生錯誤
+2023-07-04 21:23:21,695 開始擷取
+2023-07-04 21:23:26,228 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:26,228 第4部份發生錯誤
+2023-07-04 21:23:26,229 開始擷取
+2023-07-04 21:23:30,183 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:30,184 第5部份發生錯誤
+2023-07-04 21:23:30,185 開始擷取
+2023-07-04 21:23:34,162 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:34,163 第6部份發生錯誤
+2023-07-04 21:23:34,164 開始擷取
+2023-07-04 21:23:38,009 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:38,010 第7部份發生錯誤
+2023-07-04 21:23:38,011 開始擷取
+2023-07-04 21:23:43,422 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:43,423 第8部份發生錯誤
+2023-07-04 21:23:43,424 開始擷取
+2023-07-04 21:23:46,877 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:46,878 第9部份發生錯誤
+2023-07-04 21:23:46,879 開始擷取
+2023-07-04 21:23:50,782 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:50,783 第10部份發生錯誤
+2023-07-04 21:23:50,783 開始擷取
+2023-07-04 21:23:55,262 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:55,264 第11部份發生錯誤
+2023-07-04 21:23:55,265 開始擷取
+2023-07-04 21:23:59,309 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:23:59,310 第12部份發生錯誤
+2023-07-04 21:23:59,311 開始擷取
+2023-07-04 21:24:03,007 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:03,007 第13部份發生錯誤
+2023-07-04 21:24:03,008 開始擷取
+2023-07-04 21:24:09,351 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:09,352 第14部份發生錯誤
+2023-07-04 21:24:09,353 開始擷取
+2023-07-04 21:24:13,820 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:13,820 第15部份發生錯誤
+2023-07-04 21:24:13,821 開始擷取
+2023-07-04 21:24:17,018 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:17,019 第16部份發生錯誤
+2023-07-04 21:24:17,020 開始擷取
+2023-07-04 21:24:20,814 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:20,815 第17部份發生錯誤
+2023-07-04 21:24:20,815 開始擷取
+2023-07-04 21:24:23,192 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:23,193 第18部份發生錯誤
+2023-07-04 21:24:23,194 開始擷取
+2023-07-04 21:24:24,731 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:24:24,732 第19部份發生錯誤
+2023-07-04 21:24:25,718 第2位分析師的影片共有1部
+2023-07-04 21:25:00,706 開始擷取
+2023-07-04 21:25:13,725 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:13,726 第0部份發生錯誤
+2023-07-04 21:25:13,726 開始擷取
+2023-07-04 21:25:19,035 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:19,036 第1部份發生錯誤
+2023-07-04 21:25:19,038 開始擷取
+2023-07-04 21:25:23,473 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:23,474 第2部份發生錯誤
+2023-07-04 21:25:23,476 開始擷取
+2023-07-04 21:25:27,099 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:27,100 第3部份發生錯誤
+2023-07-04 21:25:27,100 開始擷取
+2023-07-04 21:25:30,090 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:30,091 第4部份發生錯誤
+2023-07-04 21:25:30,093 開始擷取
+2023-07-04 21:25:33,638 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:33,639 第5部份發生錯誤
+2023-07-04 21:25:33,640 開始擷取
+2023-07-04 21:25:36,678 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:36,679 第6部份發生錯誤
+2023-07-04 21:25:36,680 開始擷取
+2023-07-04 21:25:40,225 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:40,226 第7部份發生錯誤
+2023-07-04 21:25:40,227 開始擷取
+2023-07-04 21:25:43,113 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:43,114 第8部份發生錯誤
+2023-07-04 21:25:43,115 開始擷取
+2023-07-04 21:25:47,754 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:47,755 第9部份發生錯誤
+2023-07-04 21:25:47,756 開始擷取
+2023-07-04 21:25:51,743 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:51,744 第10部份發生錯誤
+2023-07-04 21:25:51,746 開始擷取
+2023-07-04 21:25:55,263 error_code=None error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-04 21:25:55,264 第11部份發生錯誤
+2023-07-09 16:22:51,258 第1位分析師的影片共有0部
+2023-07-09 16:22:53,614 第2位分析師的影片共有0部
+2023-07-09 16:25:34,734 第1位分析師的影片共有0部
+2023-07-09 16:25:35,293 第2位分析師的影片共有0部
+2023-07-09 16:26:39,316 第1位分析師的影片共有0部
+2023-07-09 16:26:40,801 第2位分析師的影片共有0部
+2023-07-09 16:27:49,038 第1位分析師的影片共有1部
+2023-07-09 16:28:23,065 開始擷取
+2023-07-09 16:28:42,944 error_code=billing_not_active error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-09 16:28:42,945 第0部份發生錯誤
+2023-07-09 16:28:42,946 開始擷取
+2023-07-09 16:28:56,418 error_code=billing_not_active error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-09 16:28:56,419 第1部份發生錯誤
+2023-07-09 16:28:56,419 開始擷取
+2023-07-09 16:29:13,099 error_code=billing_not_active error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-09 16:29:13,100 第2部份發生錯誤
+2023-07-09 16:29:13,100 開始擷取
+2023-07-09 16:29:29,188 error_code=billing_not_active error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-09 16:29:29,188 第3部份發生錯誤
+2023-07-09 16:29:29,189 開始擷取
+2023-07-09 16:29:45,570 error_code=billing_not_active error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-09 16:29:45,571 第4部份發生錯誤
+2023-07-09 16:29:45,571 開始擷取
+2023-07-09 16:29:52,799 error_code=billing_not_active error_message='Your account is not active, please check your billing details on our website.' error_param=None error_type=billing_not_active message='OpenAI API error received' stream_error=False
+2023-07-09 16:29:52,800 第5部份發生錯誤
+2023-07-09 16:29:53,396 第2位分析師的影片共有0部

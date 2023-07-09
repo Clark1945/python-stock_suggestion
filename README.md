@@ -19,3 +19,7 @@
 ※ 需要先擁有帳號
 3. 取得想要抓取Youtube頻道的channel_id   
 (目前 Youtube 已經沒有公開顯示頻道ID，需要另外透過方法取得，詳見此影片：https://www.youtube.com/watch?v=0oDy2sWPF38&list=LL&index=5&t=1s&ab_channel=GaugingGadgets)
+
+問題紀錄：
+https://github.com/pytube/pytube/issues/1678
+pytube套件15.0.0版異常狀況，上github參考他人解決。
